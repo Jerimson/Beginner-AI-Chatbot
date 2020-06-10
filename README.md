@@ -1,1 +1,1 @@
-# LP3-AI-chatbot
+# Beginner AI Chatbot
